@@ -4,7 +4,8 @@ import About from './components/ABout'
 const App = () => {
   return (
     <div>
-      <About/>
+      <About />
+      <Hero />
     </div>
   )
 }
