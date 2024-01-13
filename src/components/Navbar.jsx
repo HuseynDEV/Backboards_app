@@ -1,4 +1,5 @@
 import React from 'react'
+import PageLinks from './PageLinks'
 
 const Navbar = () => {
   return (
@@ -9,6 +10,10 @@ const Navbar = () => {
             <i className='fas fa-bars'></i>
             </button>
         </div>
+        <PageLinks />
+        <ul className='nav-icons'>
+
+        </ul>
     </div>
    </div>
   )
