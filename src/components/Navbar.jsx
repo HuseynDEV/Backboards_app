@@ -1,5 +1,8 @@
 import React from 'react'
 import PageLinks from './PageLinks'
+import { pageLinks, socialLinks } from '../data'
+import PageLinks from './PageLinks'
+
 
 const Navbar = () => {
   return (
