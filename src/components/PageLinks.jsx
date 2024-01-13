@@ -1,5 +1,6 @@
 import React from 'react'
 import { pageLinks } from '../data'
+import PageLink from './PageLink'
 
 const PageLinks = () => {
   return (
