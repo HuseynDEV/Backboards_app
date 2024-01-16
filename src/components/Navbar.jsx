@@ -1,7 +1,8 @@
 import React from 'react'
-import PageLinks from './PageLinks'
+// import PageLinks from './PageLinks'
 import { pageLinks, socialLinks } from '../data'
-import PageLinks from './PageLinks'
+// import PageLinks from './PageLinks'
+// import PageLinks from '../../src/components/PageLinks'
 
 
 const Navbar = () => {
@@ -13,7 +14,7 @@ const Navbar = () => {
             <i className='fas fa-bars'></i>
             </button>
         </div>
-        <PageLinks />
+        {/* <PageLinks /> */}
         <ul className='nav-icons'>
 
         </ul>

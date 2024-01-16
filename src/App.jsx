@@ -4,6 +4,7 @@ import Tours from './components/Tours'
 import Footer from './components/Footer'
 import Services from './components/Services'
 import Navbar from './components/Navbar'
+import Hero from './components/Hero'
 
 const App = () => {
   return (
